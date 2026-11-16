@@ -54,7 +54,7 @@ O diagrama abaixo foi modelado e validado no **DBeaver**, cobrindo o ciclo de vi
 ### Execução via DBeaver
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/CaioLincon/ProjetoJeves-Database.git
    ```
 2. Abra o **DBeaver** e conecte-se ao seu servidor MySQL local.
 3. Vá em **Arquivo > Abrir Arquivo...** e selecione `sql/schema.sql`.
